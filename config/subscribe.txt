@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u
 https://raw.githubusercontent.com/250992941/iptv/main/st1.txt
 https://raw.githubusercontent.com/illbnm/iptv/Files/IPTV.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+
 https://aktv.top/live.txt
 http://175.178.251.183:6689/live.txt
 https://m3u.ibert.me/txt/fmml_dv6.txt
