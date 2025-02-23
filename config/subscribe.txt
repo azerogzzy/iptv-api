@@ -16,6 +16,7 @@ https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m
 https://ghproxy.cc/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/250992941/iptv/main/st1.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/illbnm/iptv/Files/IPTV.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Migu.m3u
 
 https://aktv.top/live.txt
 http://175.178.251.183:6689/live.txt
